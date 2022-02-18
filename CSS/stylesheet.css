@@ -8,6 +8,8 @@
 .panda-buy-now{
     background-image: linear-gradient(to bottom, #FF589B 0%, #ff4b92 100%);
     color: white;
+    height: 50px;
+    width: 150px;
     border-radius: 8px;
     border: none;
 }
